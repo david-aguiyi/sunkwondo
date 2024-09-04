@@ -27,7 +27,6 @@ body {
 .senthead {
     /* backdrop-filter: blur(15px); */
     border-bottom: 1px solid rgba(255, 255, 255, 0.14);
-    position: fixed;
     height: 6em;
     z-index: 3;
     width: 110%;
